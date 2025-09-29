@@ -40,8 +40,7 @@ public class currencies {
                     +currenciesNameTable[typeYourCurrencies][3]+": "+Math.round(yourSum*currenciesTable[typeYourCurrencies][3]*100.0)/100.0+"\n"
                     );
                 }
-                else operation = false;                
-                
+                else operation = false;            
             }
             
         }
